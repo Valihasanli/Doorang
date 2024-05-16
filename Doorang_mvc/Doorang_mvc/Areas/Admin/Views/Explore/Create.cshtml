@@ -1,0 +1,25 @@
+﻿@using Doorang_mvc.Models;
+@model Explore;
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <input asp-for="Description" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Title</label>
+            <input asp-for="Title" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="imgFile" class="form-label">imgFile</label>
+            <input asp-for="imgFile" class="form-control">
+        </div>
+        <span asp-validation-for="Name" style="color:red"></span>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

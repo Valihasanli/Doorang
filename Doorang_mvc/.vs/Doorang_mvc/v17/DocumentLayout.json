@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|c:\\users\\user\\desktop\\doorang_cw\\doorang_mvc\\doorang_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|solutionrelative:doorang_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|c:\\users\\user\\desktop\\doorang_cw\\doorang_mvc\\doorang_mvc\\views\\accound\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|solutionrelative:doorang_mvc\\views\\accound\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|c:\\users\\user\\desktop\\doorang_cw\\doorang_mvc\\doorang_mvc\\controllers\\accoundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|solutionrelative:doorang_mvc\\controllers\\accoundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|c:\\users\\user\\desktop\\doorang_cw\\doorang_mvc\\doorang_mvc\\migrations\\20240516192105_addmembertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|solutionrelative:doorang_mvc\\migrations\\20240516192105_addmembertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|c:\\users\\user\\desktop\\doorang_cw\\doorang_mvc\\doorang_mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|solutionrelative:doorang_mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|c:\\users\\user\\desktop\\doorang_cw\\doorang_mvc\\doorang_mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A928E8-36A0-450D-A0B0-D00FF4BDC254}|Doorang_mvc\\Doorang_mvc.csproj|solutionrelative:doorang_mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Views\\Accound\\Register.cshtml",
+              "RelativeDocumentMoniker": "Doorang_mvc\\Views\\Accound\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Views\\Accound\\Register.cshtml",
+              "RelativeToolTip": "Doorang_mvc\\Views\\Accound\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:30:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240516192105_addMemberTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Migrations\\20240516192105_addMemberTable.cs",
+              "RelativeDocumentMoniker": "Doorang_mvc\\Migrations\\20240516192105_addMemberTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Migrations\\20240516192105_addMemberTable.cs",
+              "RelativeToolTip": "Doorang_mvc\\Migrations\\20240516192105_addMemberTable.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:21:06.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Program.cs",
+              "RelativeDocumentMoniker": "Doorang_mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Program.cs",
+              "RelativeToolTip": "Doorang_mvc\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:05:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Doorang_mvc\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Doorang_mvc\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:04:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccoundController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Controllers\\AccoundController.cs",
+              "RelativeDocumentMoniker": "Doorang_mvc\\Controllers\\AccoundController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Controllers\\AccoundController.cs",
+              "RelativeToolTip": "Doorang_mvc\\Controllers\\AccoundController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:02:35.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Doorang_mvc\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Doorang_cw\\Doorang_mvc\\Doorang_mvc\\Models\\User.cs",
+              "RelativeToolTip": "Doorang_mvc\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:57:24.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
